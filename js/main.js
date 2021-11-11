@@ -2,3 +2,10 @@
 // Bonus:
 // Aggiungere alla pagina un’immagine, presa anch’essa da un data.
 
+// Vue setting
+const app = new Vue ({
+    el: '#app',
+    data: {
+        message: 'Buonasera sig. Scarinci!'
+    }
+});
